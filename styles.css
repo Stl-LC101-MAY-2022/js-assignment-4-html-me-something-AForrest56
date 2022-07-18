@@ -1,1 +1,64 @@
 /* Write your CSS here! */
+/*p.background {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 50px;
+}
+
+p.resort {
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 50px;
+}
+
+p.itinerary {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 50px;
+}
+
+p.food {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 50px;
+}
+
+p.transportation {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 50px;
+}*/
+  img {
+    max-width: 1000px;
+    max-width: 1050px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 80px;
+  }
+
+  figcaption {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 50px;
+  }
+
+  #mainHeading {
+    text-align: center;
+    color:red;
+  }
+
+  body {
+    margin: 8px;
+    display: block;
+  }
+
+  p.funParagraph {
+    color:green;
+  }
